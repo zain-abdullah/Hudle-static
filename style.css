@@ -1,0 +1,215 @@
+body{
+  margin: 0%;
+  padding: 0%;  
+  font-family: 'quasimoda', -apple-system,system-ui,BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.text{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.header1{
+    margin: 30px 0px 0px 50px;
+    font-weight: bold;
+}
+.header2{
+    margin: 30px 0px 0px 50px;
+}
+.hudle{
+    color: #20c997;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 34px;
+    letter-spacing: 1px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.headfile{
+    height: 700px;
+    background-color: blueviolet;
+}
+.leftsection{
+    margin-top: 50px;
+    padding: 45px;
+}
+.left{
+    color: white;
+}
+
+.box{
+    margin-left: 40px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 100px;
+}
+.bgimage{
+   
+     height: 900px;
+
+    margin: 0%;
+    padding: 0%;
+}
+.image{
+    width: 100%;  
+    position: absolute;
+}
+.bgimage2{
+    width: 1500px;
+    height: 843px;
+}
+.heading2{
+    color: white;
+    margin: 0%;
+    position: relative;
+}
+.imgdiv{
+    padding: 200px 0px 0px 50px;
+}
+.text2{
+    color: white;
+    position: relative;
+}
+.image2{
+    width: 100%;
+    position: absolute;
+}
+.heading3{
+    color: white;
+    margin-left: 500px;
+    position: relative;
+    margin-top: 250px;
+}
+.imgdiv2{
+    padding: 30px 0px 0px 30px;
+
+}
+.text3{
+    color: white;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+}
+.button2{
+    height: 55px;
+    width: 270px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: rgb(3, 107, 241);
+    position: relative;
+    margin: 65px 0px 0px 570px;
+    cursor: pointer;
+}
+.contact{
+    position: absolute;
+    z-index: 1;
+    background-color: rgb(5, 149, 185);
+    height: 700px;
+    width: 100%;
+}
+.para1{
+    margin-top: 170px;
+    margin-left: 100px;
+}
+.para{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.icon{
+    position: absolute;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.mail{
+    margin-left: 50px;
+}
+.drop{
+    color: black;
+    
+}
+.line{
+    margin-top: -10px;
+    justify-items: center;
+    
+   
+}
+
+.section2{
+    display: flex;
+    height: 700px;
+}
+.line2{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.form{
+    font-size: 25px;
+    padding: 0px 70px;
+}
+.button button{ 
+    height: 30px;
+    width: 100px;
+    margin-left: 30px;
+    background-color: blue;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.table{
+    width: 50%;
+    padding: 100px;
+}
+.contact-holder{
+    width: 50%;
+}
+.table-box{
+    border: solid 1px white;
+    background-color: white;
+}
+.section3{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.logo{
+    margin: 30px 0px 0px 86px;
+    cursor: pointer;
+    
+}
+.playlogo{
+    margin: 0px 0px 0px 86px;
+    cursor: pointer;
+}
+.reserved{
+    font-size: 10px;
+    margin: 30px 0px 0px 86px;
+}
+.text-1{
+    color: black;
+    margin-top: 40px;
+}
+.logoholder1{
+    display: flex;
+
+}
+.text-2{
+    margin-top: 40px;
+}
+.texxt{
+    text-decoration: none;
+    color: black;
+}
+.insta{
+    margin-left: 80px;
+    
+}
+.instaaa{
+    justify-content: space-between;
+}

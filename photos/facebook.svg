@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hudle-landing-page" transform="translate(-1133.000000, -3870.000000)" fill-rule="nonzero">
+            <g id="footer-section" transform="translate(0.000000, 3599.000000)">
+                <g id="social-icons" transform="translate(1128.000000, 271.000000)">
+                    <g id="icons">
+                        <g id="facebook" transform="translate(5.000000, 0.000000)">
+                            <ellipse id="Oval" fill="#0B203C" cx="19.7648628" cy="19.95215" rx="19.7648628" ry="19.95215"></ellipse>
+                            <path d="M24.7337362,19.9739332 L21.2069389,19.9739332 L21.2069389,33.0169159 L15.8635415,33.0169159 L15.8635415,19.9739332 L13.3222039,19.9739332 L13.3222039,15.3901101 L15.8635415,15.3901101 L15.8635415,12.4238559 C15.8635415,10.302664 16.861685,6.98109941 21.2545031,6.98109941 L25.2125492,6.99781571 L25.2125492,11.4471971 L22.3407285,11.4471971 C21.8696667,11.4471971 21.2072912,11.684782 21.2072912,12.6966517 L21.2072912,15.3943781 L25.20057,15.3943781 L24.7337362,19.9739332 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

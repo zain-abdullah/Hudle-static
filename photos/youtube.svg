@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hudle-landing-page" transform="translate(-1292.000000, -3870.000000)" fill-rule="nonzero">
+            <g id="footer-section" transform="translate(0.000000, 3599.000000)">
+                <g id="social-icons" transform="translate(1128.000000, 271.000000)">
+                    <g id="icons">
+                        <g id="youtube" transform="translate(164.711315, 0.089092)">
+                            <ellipse id="Oval" fill="#0B2443" cx="19.9036427" cy="20.0922449" rx="19.9036427" ry="20.0922449"></ellipse>
+                            <path d="M34.1495809,6.64195952 C41.6922728,14.3155064 41.6929249,26.7561558 34.1495809,34.4297027 C26.6068889,42.1025863 14.3766773,42.1029179 6.83333333,34.4297027 L34.1495809,6.64195952 Z" id="Shape" fill="#0B2443"></path>
+                            <path d="M30.319277,16.9742468 C30.319277,15.289902 28.967567,13.9247051 27.2999567,13.9247051 L13.1342573,13.9247051 C11.466983,13.9247051 10.115525,15.2902411 10.115525,16.9742468 L10.115525,25.1516919 C10.115525,26.8360367 11.467235,28.2012335 13.1342573,28.2012335 L27.2997048,28.2012335 C28.967651,28.2012335 30.319025,26.8356975 30.319025,25.1516919 L30.319025,16.9742468 L30.319277,16.9742468 Z M18.1963874,24.5127177 L18.1963874,16.8321394 L23.9663322,20.6725981 L18.1963874,24.5127177 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
